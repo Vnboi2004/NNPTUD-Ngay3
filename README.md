@@ -1,2 +1,1 @@
-# NNPTUD-Ngay3
-Bài tập buổi 3
+# Trương Phước Hưng - 2280601329
